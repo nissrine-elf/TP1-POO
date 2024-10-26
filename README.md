@@ -7,7 +7,6 @@ Ce programme permet de gérer les notes des étudiants en effectuant les opérat
 4. Affichage des notes maximales et minimales.
 5. Nombre d'étudiants.
 ## code 1:
-Voici le code utilisé pour cet exercice :
 package Poo_tp1;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -43,6 +42,7 @@ System.out.println("la note minimale est "+notes[0]);
 // le nombre d’étudiants ayant une note saisie par l’utilisateur 
 System.out.println("le nombre d’étudiants est "+notes.length);
 	}}  
+ 
 ### Exercice 2 : Conjugaison des verbes du premier groupe
 Ce programme permet de lire un verbe du premier groupe et d'afficher sa conjugaison au présent de l'indicatif. Le programme vérifie que le verbe se termine par "er", ce qui est caractéristique des verbes réguliers du premier groupe.
 ### code1 :
